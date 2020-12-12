@@ -1,7 +1,8 @@
-Ejemplo de Aplicación de Excepciones en Api SpringBoot
+# Api Manejo de Excepciones en SpringBoot
 
-![alt text](https://github.com/nelson86/api-exception/blob/main/img/diagrama.png)
-
-Otra forma
-
+## Comenzando 🚀
 ![alt text](https://github.com/nelson86/api-exception/blob/main/img/diagrama.png?raw=true)
+
+## Fuente 📖
+* [Guide to Spring Boot REST API Error Handling](https://www.toptal.com/java/spring-boot-rest-api-error-handling)
+* [Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
